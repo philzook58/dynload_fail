@@ -1,0 +1,18 @@
+opam-version: "2.0"
+name: "lwtlib"
+version: "0.1"
+synopsis: ""
+description: """
+
+"""
+maintainer: "Phil"
+authors: [
+  "Philip Zucker <pzucker@draper.com>"
+]
+license: "MIT"
+homepage: ""
+bug-reports: ""
+dev-repo: ""
+depends: [
+  "lwt" {>= "5.3.0"}
+]

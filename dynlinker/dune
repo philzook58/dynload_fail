@@ -1,0 +1,5 @@
+( executable
+  (name main)
+  (libraries findlib.dynload) ; Add lwt.unix to succeed
+  (flags -linkall)
+)

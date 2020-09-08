@@ -1,0 +1,6 @@
+( library
+  (name lwtlib)
+  (public_name lwtlib)
+  (libraries lwt lwt.unix)
+  ; (flags -linkall) Does not help
+)

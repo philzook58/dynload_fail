@@ -1,0 +1,8 @@
+EXCLUDE_QUERY_DIR
+B /home/philip/.opam/bappy4/lib/findlib
+B /home/philip/.opam/bappy4/lib/ocaml
+B ../../_build/default/link_failure_simple/dynlinker/.main.eobjs/byte
+S /home/philip/.opam/bappy4/lib/findlib
+S /home/philip/.opam/bappy4/lib/ocaml
+S .
+FLG -linkall
